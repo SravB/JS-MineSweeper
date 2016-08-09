@@ -1,2 +1,3 @@
 # JS-MineSweeper
-A mine sweeper game built in java script. 
+
+A mine sweeper game built in JavaScript. 
